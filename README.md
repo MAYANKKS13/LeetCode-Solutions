@@ -9,8 +9,8 @@ More solutions will get added in this repository.
 
 * [Merge Sorted Array &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/MergeSortedArray.java)
 * [Remove Element &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/RemoveElement.java)
-* [Remove Duplicates from Sorted Array &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/RemoveDuplicatesFromSortedArrayII.java)
-* [Remove Duplicates from Sorted Array II &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/MergeSortedArray.java)
+* [Remove Duplicates from Sorted Array &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/RemoveDuplicatesFromSortedArray.java)
+* [Remove Duplicates from Sorted Array II &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/RemoveDuplicatesFromSortedArrayII.java)
 * [Majority Element &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/MajorityElement.java)
 * [Rotate Array &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/RotateArray.java)
 * [Best Time to Buy and Sell Stock &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/BestTimeToBuyAndSellStock.java)
