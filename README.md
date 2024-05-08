@@ -1,5 +1,8 @@
 # Leetcode Top Interview 150
 
+<h3>This repository contains my solutions to the LeetCode Top Interview 150 problems.</h3>
+More solutions will get added in this repository.
+
 ## Topic
 
 ### Array / Strings
