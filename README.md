@@ -14,6 +14,7 @@ More solutions will get added in this repository.
 * [Majority Element &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/MajorityElement.java)
 * [Rotate Array &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/RotateArray.java)
 * [Best Time to Buy and Sell Stock &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/BestTimeToBuyAndSellStock.java)
+* [Insert Delete GetRandom O(1) &nbsp;  (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/InsertDeleteGetRandom.java)
 * [Product of Array Except Self &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/ProductOfArrayExceptSelf.java)
 * [Trapping Rain Water &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/TrappingRainWater.java)
 * [Roman to Integer &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/RomanToInteger.java)
