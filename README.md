@@ -29,6 +29,7 @@ More solutions will get added in this repository.
 * [Is Subsequence &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/twoPointers/IsSubsequence.java)
 * [Two Sum II - Input Array Is Sorted &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/twoPointers/TwoSumII.java)
 * [Container With Most Water &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/twoPointers/ContainerWithMostWater.java)
+* [3Sum &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/twoPointers/ThreeSum.java)
 
 
 ### Sliding Window
