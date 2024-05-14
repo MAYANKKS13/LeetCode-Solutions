@@ -112,6 +112,8 @@ More solutions will get added in this repository.
 
 ### Bit Manipulation
 
+* [Add Binary &nbsp;  (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/AddBinary.java)
+* [Reverse Bits &nbsp;  (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/ReverseBits.java)
 * [Bitwise AND of Numbers Range &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/BitwiseANDofNumbersRange.java)
 
 
@@ -120,3 +122,4 @@ More solutions will get added in this repository.
 * [Palindrome Number &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/PalindromeNumber.java)
 * [Plus One &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/PlusOne.java)
 * [Factorial Trailing Zeroes &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/FactorialTrailingZeroes.java)
+* [Pow(x,n) &nbsp;  (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/PowXN.java)
