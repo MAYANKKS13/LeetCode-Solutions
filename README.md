@@ -72,7 +72,10 @@ More solutions will get added in this repository.
 
 ### Binary Tree General
 
+* [Same Tree &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BinaryTreeGeneral/SameTree.java)
 * [Invert Binary Tree &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BinaryTreeGeneral/InvertBinaryTree.java)
+* [Construct Binary Tree from Preorder and Inorder Traversal &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BinaryTreeGeneral/BTFromPreorderandInorder.java)
+* [Construct Binary Tree from Inorder and Postorder Traversal &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BinaryTreeGeneral/BTFromInorderandPostorder.java)
 * [Path Sum &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BinaryTreeGeneral/PathSum.java)
 * [Sum Root to Leaf Numbers &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BinaryTreeGeneral/SumRoottoLeafNumbers.java)
 
