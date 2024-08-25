@@ -55,6 +55,8 @@ More solutions will get added in this repository.
 
 ### Intervals
 
+* [Summary Ranges &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Intervals/SummaryRanges.java)
+* [Merge Intervals &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Intervals/MergeIntervals.java)
 * [Maximum Number of Arrows to Burst Balloons &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Intervals/MinimumNumberOfArrowsToBurstBalloons.java)
 
 
@@ -126,4 +128,6 @@ More solutions will get added in this repository.
 * [Palindrome Number &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/PalindromeNumber.java)
 * [Plus One &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/PlusOne.java)
 * [Factorial Trailing Zeroes &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/FactorialTrailingZeroes.java)
+* [Sqrt(x) &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/SqrtX.java)
 * [Pow(x,n) &nbsp;  (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/PowXN.java)
+* [Max Points on a Line](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/MaxPointsonaLine.java)
