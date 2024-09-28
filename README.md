@@ -32,6 +32,7 @@ More solutions will get added in this repository.
 * [Two Sum II - Input Array Is Sorted &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/twoPointers/TwoSumII.java)
 * [Container With Most Water &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/twoPointers/ContainerWithMostWater.java)
 * [3Sum &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/twoPointers/ThreeSum.java)
+* [4Sum &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/twoPointers/FourSum.java)
 
 
 ### Sliding Window
@@ -121,6 +122,8 @@ More solutions will get added in this repository.
 * [Add Binary &nbsp;  (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/AddBinary.java)
 * [Reverse Bits &nbsp;  (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/ReverseBits.java)
 * [Bitwise AND of Numbers Range &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/BitwiseANDofNumbersRange.java)
+* [Bit Changes](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/BitChanges.java)
+* [Convert Date to Binary](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/DateToBinary.java)
 
 
 ### Math
