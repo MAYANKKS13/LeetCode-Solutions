@@ -23,6 +23,8 @@ More solutions will get added in this repository.
 * [Longest Common Prefix &nbsp;  (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/LongestCommonPrefix.java)
 * [Reverse Words in a String &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/ReverseWordsInAString.java)
 * [Find the Index of the First Occurrence in a String &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/FindtheIndexoftheFirstOccurrenceinaString.java)
+* [Score of a String](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/ScoreofaString.java)
+* [Rank Transform of an Array &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/RankTransformOfAnArray.java)
  
 
 ### Two Pointers
