@@ -25,6 +25,14 @@ More solutions will get added in this repository.
 * [Find the Index of the First Occurrence in a String &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/FindtheIndexoftheFirstOccurrenceinaString.java)
 * [Score of a String](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/ScoreofaString.java)
 * [Rank Transform of an Array &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/RankTransformOfAnArray.java)
+* [Divide Players Into Teams of Equal Skill &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/DividePlayersIntoTeamsofEqualSkill.java)
+* [Permutation in String &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/PermutationinString.java)
+* [House Robber &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/HouseRobber.java)
+* [House Robber II &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/HouseRobberII.java)
+* [Separate Black and White Balls &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/SeparateBlackandWhiteBalls.java)
+* [Longest Happy String &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/LongestHappyString.java)
+* [Maximum Swap &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/MaximumSwap.java)
+* [Circular Sentence &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/CircularSentence.java)
  
 
 ### Two Pointers
@@ -41,6 +49,8 @@ More solutions will get added in this repository.
 
 * [Minimum Size Subarray Sum &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/slidingWindow/MinimumSizeSubarraySum.java)
 * [Longest Substring Without Repeating Characters &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/slidingWindow/LongestSubstringWithoutRepeatingCharacters.java)
+* [Substring with Concatenation of All Words](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/slidingWindow/SubstringwithConcatenationofAllWords.java)
+* [Find X Sum of All K Long Subarrays I](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/slidingWindow/FindXSumofAllKLongSubarraysI.java)
 
 
 ### Hashmap
@@ -117,6 +127,8 @@ More solutions will get added in this repository.
 ### Heap
 
 * [Kth Largest Element in a Array &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Heap/KthLargestElementinaArray.java)
+* [Reach End of Array with Max Score &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Heap/ReachEndofArraywithMaxScore.java)
+* [Maximal Score After Applying K Operations &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Heap/MaximalScoreAfterApplyingKOperations.java)
 
 
 ### Bit Manipulation
@@ -126,6 +138,8 @@ More solutions will get added in this repository.
 * [Bitwise AND of Numbers Range &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/BitwiseANDofNumbersRange.java)
 * [Bit Changes](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/BitChanges.java)
 * [Convert Date to Binary](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/DateToBinary.java)
+* [Maximum Possible Number by Binary Concatenation](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/MaximumPossibleNumberbyBinaryConcatenation.java)
+* [Find Kth Bit in Nth Binary String](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/FindKthBitinNthBinaryString.java)
 
 
 ### Math
@@ -136,3 +150,4 @@ More solutions will get added in this repository.
 * [Sqrt(x) &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/SqrtX.java)
 * [Pow(x,n) &nbsp;  (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/PowXN.java)
 * [Max Points on a Line](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/MaxPointsonaLine.java)
+* [Rectangle Area](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/RectangleArea.java)
