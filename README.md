@@ -33,7 +33,16 @@ More solutions will get added in this repository.
 * [Longest Happy String &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/LongestHappyString.java)
 * [Maximum Swap &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/MaximumSwap.java)
 * [Circular Sentence &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/CircularSentence.java)
+* [Longest Square Streak in an Array](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/LongestSquareStreakinanArray.java)
+* [Adding Spaces to a String](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/AddingSpacestoaString.java)
+* [Remove Methods From Project](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/RemoveMethodsFromProject.java)
+* [Sequence of Strings Appeared on the Screen](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/SequenceofStringsAppearedontheScreen.java)
  
+
+### Basics
+
+* [Max Height of a Triangle](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Basics/MaxHeightofaTriangle.java)
+
 
 ### Two Pointers
 
@@ -64,6 +73,7 @@ More solutions will get added in this repository.
 * [Happy Number &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/HashMap/HappyNumber.java)
 * [Contains Duplicates II &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/HashMap/ContainsDuplicateII.java)
 * [Longest Consecutive Sequence &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/HashMap/LongestConsecutiveSequence.java)
+* [Count Substrings With K Frequency Characters I](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/HashMap/CountSubstringsWithKFrequencyCharactersI.java)
 
 
 ### Intervals
@@ -77,6 +87,7 @@ More solutions will get added in this repository.
 
 * [Valid Parentheses &nbsp;(Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Stack/ValidParentheses.java)
 * [Min Stack &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Stack/MinStack.java)
+* [Reverse Substring BW Each Pair of Parenthesis](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Stack/ReverseSubstringBWEachPairofParenthesis.java)
 
 
 ### Linked List
@@ -151,3 +162,9 @@ More solutions will get added in this repository.
 * [Pow(x,n) &nbsp;  (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/PowXN.java)
 * [Max Points on a Line](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/MaxPointsonaLine.java)
 * [Rectangle Area](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/RectangleArea.java)
+* [Minimum Division Operations to Make Array Non Decreasing](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/MinimumDivisionOperationstoMakeArrayNonDecreasing.java)
+
+
+### Matrix
+
+* [Spiral Matrix](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Matrix/SpiralMatrix.java)
