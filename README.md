@@ -74,6 +74,7 @@ More solutions will get added in this repository.
 * [Contains Duplicates II &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/HashMap/ContainsDuplicateII.java)
 * [Longest Consecutive Sequence &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/HashMap/LongestConsecutiveSequence.java)
 * [Count Substrings With K Frequency Characters I](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/HashMap/CountSubstringsWithKFrequencyCharactersI.java)
+* [Maximum Difference Between Even and Odd Frequency I](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/HashMap/MaximumDifferenceBetweenEvenandOddFrequencyI.java)
 
 
 ### Intervals
@@ -140,6 +141,7 @@ More solutions will get added in this repository.
 * [Kth Largest Element in a Array &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Heap/KthLargestElementinaArray.java)
 * [Reach End of Array with Max Score &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Heap/ReachEndofArraywithMaxScore.java)
 * [Maximal Score After Applying K Operations &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Heap/MaximalScoreAfterApplyingKOperations.java)
+* [Minimum Limit of Balls in a Bag &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Heap/MinimumLimitofBallsinaBag.java)
 
 
 ### Bit Manipulation
