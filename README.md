@@ -165,6 +165,8 @@ More solutions will get added in this repository.
 * [Max Points on a Line](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/MaxPointsonaLine.java)
 * [Rectangle Area](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/RectangleArea.java)
 * [Minimum Division Operations to Make Array Non Decreasing](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/MinimumDivisionOperationstoMakeArrayNonDecreasing.java)
+* [Climbing Stairs](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/ClimbingStairs.java)
+* [Ugly Number](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/UglyNumber.java)
 
 
 ### Matrix
