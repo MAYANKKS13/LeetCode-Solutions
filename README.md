@@ -38,6 +38,7 @@ More solutions will get added in this repository.
 * [Remove Methods From Project](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/RemoveMethodsFromProject.java)
 * [Sequence of Strings Appeared on the Screen](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/SequenceofStringsAppearedontheScreen.java)
 * [Minimum Cost to Reach Every Position](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/MinimumCosttoReachEveryPosition.java)
+* [Excel Sheet Column Title](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/ExcelSheetColumnTitle.java)
   
 
 ### Basics
