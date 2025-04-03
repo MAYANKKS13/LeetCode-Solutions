@@ -39,6 +39,7 @@ More solutions will get added in this repository.
 * [Sequence of Strings Appeared on the Screen](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/SequenceofStringsAppearedontheScreen.java)
 * [Minimum Cost to Reach Every Position](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/MinimumCosttoReachEveryPosition.java)
 * [Excel Sheet Column Title](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/ExcelSheetColumnTitle.java)
+* [Maximum Value of an Ordered Triplet II](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/MaximumValueofanOrderedTripletII.java)
   
 
 ### Basics
