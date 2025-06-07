@@ -41,6 +41,8 @@ More solutions will get added in this repository.
 * [Excel Sheet Column Title](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/ExcelSheetColumnTitle.java)
 * [Maximum Value of an Ordered Triplet II](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/MaximumValueofanOrderedTripletII.java)
 * [Count Symmetric Integers](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/CountSymmetricIntegers.java)
+* [String to Integer (atoi)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/StringtoInteger.java)
+* [Excel Sheet Column Number](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/ExcelSheetColumnNumber.java)
   
 
 ### Basics
