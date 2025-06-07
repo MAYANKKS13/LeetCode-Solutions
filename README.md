@@ -1,7 +1,6 @@
 # Leetcode Top Interview 150
 
-<h3>This repository contains my solutions to the LeetCode Top Interview 150 problems.</h3>
-More solutions will get added in this repository.
+<h3>This repository contains my solutions of the various LeetCode Top problems.</h3>
 
 ## Topic
 
@@ -43,6 +42,7 @@ More solutions will get added in this repository.
 * [Count Symmetric Integers](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/CountSymmetricIntegers.java)
 * [String to Integer (atoi)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/StringtoInteger.java)
 * [Excel Sheet Column Number](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/ExcelSheetColumnNumber.java)
+* [Jump Game](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/JumpGame.java)
   
 
 ### Basics
