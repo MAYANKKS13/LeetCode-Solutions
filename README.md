@@ -178,3 +178,8 @@
 ### Matrix
 
 * [Spiral Matrix](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Matrix/SpiralMatrix.java)
+
+
+### Miscellaneous
+
+* [Probability](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Probability.java)
