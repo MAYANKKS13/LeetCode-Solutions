@@ -45,7 +45,7 @@
 * [Jump Game](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/JumpGame.java)
   
 
-### Basics
+### Basics 
 
 * [Max Height of a Triangle](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Basics/MaxHeightofaTriangle.java)
 
