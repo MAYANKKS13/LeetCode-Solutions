@@ -173,6 +173,7 @@
 * [Minimum Division Operations to Make Array Non Decreasing](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/MinimumDivisionOperationstoMakeArrayNonDecreasing.java)
 * [Climbing Stairs](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/ClimbingStairs.java)
 * [Ugly Number](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/UglyNumber.java)
+* [Power of Four](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/PowerOfFour.java)
 
 
 ### Matrix
