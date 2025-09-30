@@ -1,6 +1,6 @@
-# Leetcode Top Interview 150
+# Leetcode Problem-Solutions
 
-<h3>This repository contains my solutions of the various LeetCode Top problems.</h3>
+<h3>This repository contains my solutions to various LeetCode problems.</h3>
 
 ## Topic
 
