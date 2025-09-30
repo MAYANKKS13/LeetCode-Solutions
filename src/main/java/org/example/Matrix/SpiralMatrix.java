@@ -15,8 +15,7 @@ public class SpiralMatrix {
     public static List<Integer> spiral(int[][] matrix){
         int rows = matrix.length;
         int columns = matrix[0].length;
-        int n = matrix[0].length;
-        int x = 0, y = 0, z = 1;
+        int x = 0, y = 0;
         List<Integer> list = new ArrayList<>();
         for(int k = 0; k <= rows/2 && k <= columns/2; k++){
             for(int i = y; i < columns - y; i++){

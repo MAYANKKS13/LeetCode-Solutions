@@ -43,6 +43,10 @@
 * [String to Integer (atoi)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/StringtoInteger.java)
 * [Excel Sheet Column Number](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/ExcelSheetColumnNumber.java)
 * [Jump Game](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/JumpGame.java)
+* [Add Strings](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/AddStrings.java)
+* [Fizz Buzz](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/FizzBuzz.java)
+* [Compare Version](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/CompareVersion.java)
+* [Triangular Sum](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/TriangularSum.java)
   
 
 ### Basics 
@@ -81,6 +85,9 @@
 * [Longest Consecutive Sequence &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/HashMap/LongestConsecutiveSequence.java)
 * [Count Substrings With K Frequency Characters I](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/HashMap/CountSubstringsWithKFrequencyCharactersI.java)
 * [Maximum Difference Between Even and Odd Frequency I](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/HashMap/MaximumDifferenceBetweenEvenandOddFrequencyI.java)
+* [Max Frequency Elements](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/HashMap/MaxFrequencyElements.java)
+* [Majority Element](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/HashMap/MajorityElement.java)
+* [Contains Duplicate](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/HashMap/ContainsDuplicate.java)
 
 
 ### Intervals
@@ -174,11 +181,27 @@
 * [Climbing Stairs](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/ClimbingStairs.java)
 * [Ugly Number](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/UglyNumber.java)
 * [Power of Four](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/PowerOfFour.java)
+* [Nth Ugly Number](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/NthUglyNumber.java)
+* [Largest Triangle Area](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/LargestTriangleArea.java)
+* [Largest Perimeter](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/LargestPerimeter.java)
+* [Fraction To Decimal](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/FractionToDecimal.java)
 
 
 ### Matrix
 
 * [Spiral Matrix](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Matrix/SpiralMatrix.java)
+
+
+### Number Theory
+
+* [Add Digits](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/NumberTheory/AddDigits.java)
+* [Mirror Reflection](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/NumberTheory/MirrorReflection.java)
+
+
+### Game Theory
+
+* [Can I Win](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/GameTheory/CanIWin.java)
+* [Stone Game](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/GameTheory/StoneGame.java)
 
 
 ### Miscellaneous

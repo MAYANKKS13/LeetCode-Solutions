@@ -34,13 +34,10 @@ Output: [2,3,1]
 
 
 import java.util.ArrayDeque;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Queue;
 
 public class InvertBinaryTree {
     public TreeNode invertTree(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
 
         if (root == null) {
             return root;

@@ -17,8 +17,6 @@ public class AddingSpacestoaString {
     public static String addSpaces(String s, int[] spaces) {
         StringBuilder result =new StringBuilder();
         int j = 0;
-        int k = 0;
-
         for(int i = 0; i < s.length(); i++) {
             if(j < spaces.length && i == spaces[j]) {
                 result.append(" ");
