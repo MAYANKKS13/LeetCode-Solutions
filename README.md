@@ -47,6 +47,7 @@
 * [Fizz Buzz](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/FizzBuzz.java)
 * [Compare Version](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/CompareVersion.java)
 * [Triangular Sum](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/TriangularSum.java)
+* [Maximum Gap](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/MaximumGap.java)
   
 
 ### Basics 
@@ -155,6 +156,8 @@
 * [Reach End of Array with Max Score &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Heap/ReachEndofArraywithMaxScore.java)
 * [Maximal Score After Applying K Operations &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Heap/MaximalScoreAfterApplyingKOperations.java)
 * [Minimum Limit of Balls in a Bag &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Heap/MinimumLimitofBallsinaBag.java)
+* [Top K Frequent Elements](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Heap/TopKFrequentElements.java)
+* [Sort Characters By Frequency](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Heap/SortCharactersByFrequency.java)
 
 
 ### Bit Manipulation
@@ -185,6 +188,9 @@
 * [Largest Triangle Area](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/LargestTriangleArea.java)
 * [Largest Perimeter](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/LargestPerimeter.java)
 * [Fraction To Decimal](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/FractionToDecimal.java)
+* [Number of Digit One](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/NumberofDigitOne.java)
+* [Water Bottles](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/WaterBottles.java)
+* [Max Bottles Drunk](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/MaxBottlesDrunk.java)
 
 
 ### Matrix
