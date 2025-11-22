@@ -48,6 +48,13 @@
 * [Compare Version](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/CompareVersion.java)
 * [Triangular Sum](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/TriangularSum.java)
 * [Maximum Gap](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/MaximumGap.java)
+* [Check If All 1's Are at Least Length K Places Away](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/CheckIfAll1sAreatLeastLengthKPlacesAway.java)
+* [Count the Number of Good Subarrays](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/CounttheNumberofGoodSubarrays.java)
+* [Count Stable Subarrays](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/CountStableSubarrays.java)
+* [Keep Multiplying Found Values by Two](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/KeepMultiplyingFoundValuesbyTwo.java)
+* [Longest Balanced Subarray 1](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/LongestBalancedSubarray1.java)
+* [Find Missing Numbers in a Range](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/FindMissingNumbersinaRange.java)
+* [Smallest Missing Multiple of K](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/arrayandStrings/SmallestMissingMultipleofK.java)
   
 
 ### Basics 
@@ -109,6 +116,7 @@
 
 * [Linked List Cycle &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/LinkedList/LinkedListCycle.java)
 * [Add Two Numbers &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/LinkedList/AddTwoNumbers.java)
+* [Delete Nodes from Linked List Present in Array](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/LinkedList/DeleteNodes.java)
 
 
 ### Binary Tree General
@@ -119,6 +127,8 @@
 * [Construct Binary Tree from Inorder and Postorder Traversal &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BinaryTreeGeneral/BTFromInorderandPostorder.java)
 * [Path Sum &nbsp; (Easy)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BinaryTreeGeneral/PathSum.java)
 * [Sum Root to Leaf Numbers &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BinaryTreeGeneral/SumRoottoLeafNumbers.java)
+* [Maximum Depth](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BinaryTreeGeneral/MaxDepth.java)
+* [Symmetric Tree](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BinaryTreeGeneral/SymmetricTree.java)
 
 
 ### Binary Tree BFS
@@ -158,6 +168,7 @@
 * [Minimum Limit of Balls in a Bag &nbsp; (Medium)](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Heap/MinimumLimitofBallsinaBag.java)
 * [Top K Frequent Elements](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Heap/TopKFrequentElements.java)
 * [Sort Characters By Frequency](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Heap/SortCharactersByFrequency.java)
+* [Maximum Alternating Sum of Squares](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Heap/MaximumAlternatingSumofSquares.java)
 
 
 ### Bit Manipulation
@@ -169,6 +180,7 @@
 * [Convert Date to Binary](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/DateToBinary.java)
 * [Maximum Possible Number by Binary Concatenation](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/MaximumPossibleNumberbyBinaryConcatenation.java)
 * [Find Kth Bit in Nth Binary String](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/FindKthBitinNthBinaryString.java)
+* [Smallest Number With All Set Bits](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/BitManipulation/SmallestNumberWithAllSetBits.java)
 
 
 ### Math
@@ -191,6 +203,13 @@
 * [Number of Digit One](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/NumberofDigitOne.java)
 * [Water Bottles](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/WaterBottles.java)
 * [Max Bottles Drunk](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/MaxBottlesDrunk.java)
+* [Remove All Zero Digits From an Integer](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/RemoveAllZeroDigitsFromanInteger.java)
+* [Minimum Time to Complete Deliveries With Rest Constraints](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/MinimumTimetoCompleteDeliveriesWithRestConstraints.java)
+* [Count Number of Substrings With Only 1s](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/CountNumberofSubstringsWithOnly1s.java)
+* [Maximize Sum of Squares of Digits](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/MaximizeSumofSquaresofDigits.java)
+* [Remove Zeros in Decimal Representation](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/RemoveZerosinDecimalRepresentation.java)
+* [Calculate Money in Leetcode Bank](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/CalculateMoneyinLeetcodeBank.java)
+* [Minimum Time to Make Rope Colorful](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/MinimumTimetoMakeRopeColorful.java)
 
 
 ### Matrix

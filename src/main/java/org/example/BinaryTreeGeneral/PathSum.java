@@ -25,7 +25,18 @@ There is no root-to-leaf path with sum = 5.
 
 public class PathSum {
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        return hasPathSumHelper(root, 0, targetSum);
+        if(root == null) {
+            return false;
+        }
+        if(root.left == null && root.right == null) {
+            return root.val == targetSum;
+        }
+        boolean hasLeftPath = hasPathSum(root.left, targetSum - root.val);
+        boolean hasRightPath = hasPathSum(root.right, targetSum - root.val);
+
+        return hasLeftPath || hasRightPath;
+
+//        return hasPathSumHelper(root, 0, targetSum);
     }
 
     public boolean hasPathSumHelper(TreeNode root, int sum, int targetSum) {
