@@ -212,7 +212,7 @@
 * [Minimum Time to Make Rope Colorful](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Math/MinimumTimetoMakeRopeColorful.java)
 
 
-### Matrix
+### Matrix 
 
 * [Spiral Matrix](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Matrix/SpiralMatrix.java)
 
@@ -232,3 +232,20 @@
 ### Miscellaneous
 
 * [Probability](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Probability.java)
+
+
+### Multiple Problems Solution
+
+* [Absolute Difference](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/MultipleProbSols/AbsDifference.java)
+* [Divisible By Three](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/MultipleProbSols/DivisibleByThree.java)
+* [Concatenate Non Zero](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/MultipleProbSols/ConcatenateNonZero.java)
+* [Largest Prime](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/MultipleProbSols/LargestPrime.java)
+* [Minimum Operations](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/MultipleProbSols/MinOperations.java)
+* [Mirror Pairs](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/MultipleProbSols/MirrorPairs.java)
+* [Pre Sum](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/MultipleProbSols/PreSum.java)
+* [Total Waviness](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/MultipleProbSols/TotalWaviness.java)
+
+
+### Design
+
+* [RideSharingSystem](https://github.com/MAYANKKS13/LeetCode-Solutions/blob/main/src/main/java/org/example/Design/RideSharingSystem.java)
